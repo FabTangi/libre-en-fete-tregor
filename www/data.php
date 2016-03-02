@@ -284,7 +284,7 @@ $data_programme = array (
       "Espace Fablab",
       "img/espace-garage.jpg",
       "",
-      "l'atelier des grands enfants:<br><ul><li>Espace impression 3D,</li> <li>Initiation à <a href=\"https://www.arduino.cc/\">arduino</a>,</li><li>Course de mini drônes</li><li>Espace robotique</li> </ul><a href=\"mailto:tangi@libre-en-fete-tregor.fr\">Contact: Tangi</a>"
+      "l'atelier des grands enfants:<br><ul><li>Espace impression 3D,</li> <li>Initiation à <a href=\"https://www.arduino.cc/\">arduino</a>,</li><li>Course de mini drônes</li><li>Espace robotique</li><li>Vente de PC reconditionnés</li> </ul><a href=\"mailto:tangi@libre-en-fete-tregor.fr\">Contact: Tangi</a>"
    ),
    array(
       "Espace Geek",
